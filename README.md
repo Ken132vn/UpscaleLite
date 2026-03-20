@@ -1,4 +1,4 @@
-# UpscaleLite-FP16 (x4) with GUI
+# UpscaleLite-FP16 (x4) with simple GUI
 
 High-performance image upscaler optimized for low-to-mid end GPUs using ONNX Runtime and DirectML.
 
