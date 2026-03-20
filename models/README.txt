@@ -1,4 +1,4 @@
-**IMPORTANT: READ THIS BEFORE DOWNLOADING MODEL
+**IMPORTANT: READ THIS BEFORE DOWNLOADING MODEL**
 
 1. Visit: https://openmodeldb.info/models/4x-NomosWebPhoto-esrgan
 2. Download ONLY the "ONNX .onnx file" (63.9 MB) option. 
@@ -9,5 +9,5 @@
 
 The tool will automatically convert it to FP16 for optimization on the first run.
 
-Model "4x-NomosWebPhoto-esrgan" by Nomos is licensed under CC-BY-4.0.
+Model "4x-NomosWebPhoto-esrgan" by Philip Hofmann is licensed under CC-BY-4.0.
 You must provide proper credit if you use this model.
