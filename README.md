@@ -1,13 +1,13 @@
-# Upscale lite x4 GUI
+# Upscale Lite x4 GUI
 
 High-performance image upscaler optimized for low-to-mid end GPUs using ONNX Runtime and DirectML.
 
-Upscale lite x4 GUI is a lightweight, portable solution designed to provide high-quality image magnification while maintaining extreme stability on hardware with limited resources, such as integrated graphics (Intel Iris Xe/UHD, AMD Radeon) and entry-level dedicated GPUs.
+Upscale Lite x4 GUI is a lightweight, portable solution designed to provide high-quality image magnification while maintaining extreme stability on hardware with limited resources, such as integrated graphics (Intel Iris Xe/UHD, AMD Radeon) and entry-level dedicated GPUs.
 
 ## Interface & Comparison
 
 ![Application GUI](GUI.png)
-*Figure 1: Upscale lite x4 GUI interface showing real-time tile processing and GPU VRAM detection.*
+*Figure 1: Upscale Lite x4 GUI interface showing real-time tile processing and GPU VRAM detection.*
 
 ![Before and After Comparison](be-af.png)
 *Figure 2: Visual comparison between original low-resolution image and x4 upscaled result.*
@@ -33,7 +33,7 @@ Upscale lite x4 GUI is a lightweight, portable solution designed to provide high
 1.  Download the latest release package from the **Releases** tab.
 2.  Extract the ZIP archive.
 3.  Place your `.onnx` model files in the `models/` folder.
-4.  Run `Upscale_lite_x4_GUI.exe`.
+4.  Run `Upscale_Lite_x4_GUI.exe`.
 
 ### For Developers (Source)
 
@@ -52,7 +52,7 @@ Upscale lite x4 GUI is a lightweight, portable solution designed to provide high
 3.  Execute:
 
     ```bash
-    python Upscale_lite_x4_GUI.py
+    python Upscale_Lite_x4_GUI.py
     ```
 
 ## License & Credits
