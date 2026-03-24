@@ -33,7 +33,7 @@ Upscale Lite x4 GUI is a lightweight, portable solution designed to provide high
 1.  Download the latest release package from the **Releases** tab.
 2.  Extract the ZIP archive.
 3.  Place your `.onnx` model files in the `models/` folder.
-4.  Run `Upscale_Lite_x4_GUI.exe`.
+4.  Run `UpscalerAIx4_GUI.exe`.
 
 ### For Developers (Source)
 
@@ -52,7 +52,7 @@ Upscale Lite x4 GUI is a lightweight, portable solution designed to provide high
 3.  Execute:
 
     ```bash
-    python Upscale_Lite_x4_GUI.py
+    python main.py
     ```
 
 ## License & Credits
